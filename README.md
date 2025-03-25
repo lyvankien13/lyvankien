@@ -32,6 +32,7 @@ YÊU CẦU:
 
 
 ****Bài làm: ****
+
 Bước 1: Tạo cơ sở dữ liệu: 
 
 ![image](https://github.com/user-attachments/assets/7301d3b3-1a21-47ac-ac2f-6298e2b7f76d)
@@ -45,6 +46,7 @@ Bước 3: Tạo các bảng:
 ![image](https://github.com/user-attachments/assets/8f3f2219-4e51-4ab7-80e2-67172a825a6a)
 
 - Bảng sinh viên:
+  
   ![image](https://github.com/user-attachments/assets/29726dcf-2694-4305-b549-711487ef549b)
 
 - Bảng lớp:
@@ -90,6 +92,7 @@ Bước 4: Check constraints
   ![image](https://github.com/user-attachments/assets/4652cc1f-c038-4213-a773-f118014effe7)
 
 - Bấm ' add'  để thêm một ràng buộc sau đó cài đặt cho ràng buộc đó:
+  
   ![image](https://github.com/user-attachments/assets/bb30dd8e-106b-46b8-8e86-ebef54873c2f)
 
 ![image](https://github.com/user-attachments/assets/e3be6322-9620-4168-bb4e-0d53c373375c)
@@ -119,6 +122,7 @@ Bước 5: Cài khóa chính:
 Bước 6: Cài khóa ngoại cho các bảng theo yêu cầu: 
 - Nhấp chuột phải ----> relationship...
 - Bấm 'add' để thêm khóa ngoại:
+  
   ![image](https://github.com/user-attachments/assets/899b80ad-a9f3-48e4-926c-600242550a99)
 
   ![image](https://github.com/user-attachments/assets/c60b1433-df40-4dce-bc57-52d67cc72f2a)
