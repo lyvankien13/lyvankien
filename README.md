@@ -107,15 +107,25 @@ Bước 5: Cài khóa chính:
 ![image](https://github.com/user-attachments/assets/6a234bee-4c2c-4659-8d94-142aee4acfd5)
 
   - Các bảng sau khi đã cài khóa chính:
+    
 ![image](https://github.com/user-attachments/assets/7b93aa85-2ebf-4886-9717-f4afd9228bfb)
+
 ![image](https://github.com/user-attachments/assets/3d67e7d9-15d8-4fd0-8bea-128bb07723bb)
+
 ![image](https://github.com/user-attachments/assets/643fa27a-e3e0-4d67-bef6-e67217bab9a5)
+
 ![image](https://github.com/user-attachments/assets/b2c825b0-cd3c-46b7-91fb-eb082039a2ab)
+
 ![image](https://github.com/user-attachments/assets/fc85833b-016b-4d61-9878-ac2229156d99)
+
 ![image](https://github.com/user-attachments/assets/1d5b3ca4-369c-4e77-a5cc-c6b216c7a91b)
+
 ![image](https://github.com/user-attachments/assets/3ab18fe1-c4f3-418b-90eb-44d49d89184d)
+
 ![image](https://github.com/user-attachments/assets/92065eff-6d08-4c1a-98c7-00fcf0a79b3a)
+
 ![image](https://github.com/user-attachments/assets/31692c1a-8cfa-4b3f-a38e-892d03832284)
+
 ![image](https://github.com/user-attachments/assets/8385b4cc-2f2f-4717-93c1-e225b7569910)
 
 
@@ -123,10 +133,11 @@ Bước 6: Cài khóa ngoại cho các bảng theo yêu cầu:
 - Nhấp chuột phải ----> relationship...
 - Bấm 'add' để thêm khóa ngoại:
   
-![image](https://github.com/user-attachments/assets/899b80ad-a9f3-48e4-926c-600242550a99)
+
 
 ![image](https://github.com/user-attachments/assets/c60b1433-df40-4dce-bc57-52d67cc72f2a)
 
+![image](https://github.com/user-attachments/assets/899b80ad-a9f3-48e4-926c-600242550a99)
 
 ![image](https://github.com/user-attachments/assets/b4fb6012-0c6d-4eb7-8a03-8cbfba71429b)
 
