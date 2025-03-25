@@ -47,31 +47,31 @@ Bước 3: Tạo các bảng:
 
 - Bảng sinh viên:
   
-  ![image](https://github.com/user-attachments/assets/29726dcf-2694-4305-b549-711487ef549b)
+![image](https://github.com/user-attachments/assets/29726dcf-2694-4305-b549-711487ef549b)
 
 - Bảng lớp:
 
-  ![image](https://github.com/user-attachments/assets/57105e59-2313-4d6c-a794-caaef53b13fa)
+![image](https://github.com/user-attachments/assets/57105e59-2313-4d6c-a794-caaef53b13fa)
 
   - Bảng Giáo VIên Chủ Nghiệm:
  
-    ![image](https://github.com/user-attachments/assets/98a78a4f-ac59-4602-b1cf-3b50ad6fd271)
+ ![image](https://github.com/user-attachments/assets/98a78a4f-ac59-4602-b1cf-3b50ad6fd271)
 
 - Bảng Lớp sinh viên:
 
-  ![image](https://github.com/user-attachments/assets/88a13a51-888e-4aa1-8158-24612f2e6d3b)
+![image](https://github.com/user-attachments/assets/88a13a51-888e-4aa1-8158-24612f2e6d3b)
 
 - Bảng giáo viên:
 
-  ![image](https://github.com/user-attachments/assets/c7fbe02c-303c-42ee-bd6c-b34bffefc0ab)
+![image](https://github.com/user-attachments/assets/c7fbe02c-303c-42ee-bd6c-b34bffefc0ab)
 
 - Bảng bộ môn:
 
-  ![image](https://github.com/user-attachments/assets/dc2c59fc-df01-4fc3-851c-7cf1aa079b5b)
+![image](https://github.com/user-attachments/assets/dc2c59fc-df01-4fc3-851c-7cf1aa079b5b)
 
 - Bảng khoa:
 
-  ![image](https://github.com/user-attachments/assets/4d0f65c9-92f5-45f5-8006-2ac8505fd553)
+![image](https://github.com/user-attachments/assets/4d0f65c9-92f5-45f5-8006-2ac8505fd553)
 
 
 - Bảng môn học:
@@ -80,20 +80,20 @@ Bước 3: Tạo các bảng:
 
 - Bảng lớp học phần:
 
-  ![image](https://github.com/user-attachments/assets/8a4e1be7-e2cd-4094-a780-a6b9e0ab5dd3)
+![image](https://github.com/user-attachments/assets/8a4e1be7-e2cd-4094-a780-a6b9e0ab5dd3)
 
  - Bảng DKMH:
 
-    ![image](https://github.com/user-attachments/assets/c218ffa8-132e-4740-af5a-d50250da511c)
+![image](https://github.com/user-attachments/assets/c218ffa8-132e-4740-af5a-d50250da511c)
 
 Bước 4: Check constraints
 - Thực hiện ràng buộc cho một số thuộc tính cần thiết:
 
-  ![image](https://github.com/user-attachments/assets/4652cc1f-c038-4213-a773-f118014effe7)
+![image](https://github.com/user-attachments/assets/4652cc1f-c038-4213-a773-f118014effe7)
 
 - Bấm ' add'  để thêm một ràng buộc sau đó cài đặt cho ràng buộc đó:
   
-  ![image](https://github.com/user-attachments/assets/bb30dd8e-106b-46b8-8e86-ebef54873c2f)
+![image](https://github.com/user-attachments/assets/bb30dd8e-106b-46b8-8e86-ebef54873c2f)
 
 ![image](https://github.com/user-attachments/assets/e3be6322-9620-4168-bb4e-0d53c373375c)
 
@@ -123,12 +123,12 @@ Bước 6: Cài khóa ngoại cho các bảng theo yêu cầu:
 - Nhấp chuột phải ----> relationship...
 - Bấm 'add' để thêm khóa ngoại:
   
-  ![image](https://github.com/user-attachments/assets/899b80ad-a9f3-48e4-926c-600242550a99)
+![image](https://github.com/user-attachments/assets/899b80ad-a9f3-48e4-926c-600242550a99)
 
-  ![image](https://github.com/user-attachments/assets/c60b1433-df40-4dce-bc57-52d67cc72f2a)
+![image](https://github.com/user-attachments/assets/c60b1433-df40-4dce-bc57-52d67cc72f2a)
 
 
-  ![image](https://github.com/user-attachments/assets/b4fb6012-0c6d-4eb7-8a03-8cbfba71429b)
+![image](https://github.com/user-attachments/assets/b4fb6012-0c6d-4eb7-8a03-8cbfba71429b)
 
 ![image](https://github.com/user-attachments/assets/39a224a9-829a-4143-9346-1898d0698652)
 
@@ -149,13 +149,13 @@ Bước 7: Chuyển từ thao tác đồ hoạ sang lệnh SQL:
 - Nhấp chuột phải vào Database/bảng dbo ----> Script table/database as ----> Create to -----> New query editor window
 
 
-  ![image](https://github.com/user-attachments/assets/85b1ff50-5e79-4186-b979-3d006b16c686)
+![image](https://github.com/user-attachments/assets/85b1ff50-5e79-4186-b979-3d006b16c686)
 
  - Ta có được lệnh SQL của các bảng và Database:
 
-   ![image](https://github.com/user-attachments/assets/a1c600f8-9f9d-41fb-9f92-3a5daf5892d1)
+![image](https://github.com/user-attachments/assets/a1c600f8-9f9d-41fb-9f92-3a5daf5892d1)
 
-   ![image](https://github.com/user-attachments/assets/c8fa657f-58b8-4227-8a94-611e92c8bf45)
+![image](https://github.com/user-attachments/assets/c8fa657f-58b8-4227-8a94-611e92c8bf45)
 
 ![image](https://github.com/user-attachments/assets/5c4630b4-f38a-4390-b976-9db9beb01c66)
 
