@@ -137,6 +137,9 @@ Bước 6: Cài khóa ngoại cho các bảng theo yêu cầu:
 
 ![image](https://github.com/user-attachments/assets/c60b1433-df40-4dce-bc57-52d67cc72f2a)
 
+
+- Các bảng khi thêm khoá ngoại:
+
 ![image](https://github.com/user-attachments/assets/899b80ad-a9f3-48e4-926c-600242550a99)
 
 ![image](https://github.com/user-attachments/assets/b4fb6012-0c6d-4eb7-8a03-8cbfba71429b)
