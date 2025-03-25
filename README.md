@@ -28,7 +28,10 @@ YÊU CẦU:
   + Mỗi bảng cần thiết lập PK, FK(s) và CK(s) nếu cần thiết. (chú ý dấu # và @: # là chỉ PK, @ chỉ FK)
 2. Chuyển các thao tác đồ hoạ trên thành lệnh SQL tương đương. lưu tất cả các lệnh SQL trong file: Script_DML.sql
 
-**Bài làm: **
+
+
+
+****Bài làm: ****
 Bước 1: Tạo cơ sở dữ liệu: 
 
 ![image](https://github.com/user-attachments/assets/7301d3b3-1a21-47ac-ac2f-6298e2b7f76d)
